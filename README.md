@@ -3,11 +3,8 @@
 [![Screenshot-2021-01-15-at-14-09-31.png](https://i.postimg.cc/R0spDyJp/Screenshot-2021-01-15-at-14-09-31.png)](https://postimg.cc/t16z1r5F)
 
 
-[Meet the Team](https://github.com/stmcf/code-br-/blob/main/README.md#TeamCodeBreak!) | [Tech Stack](https://github.com/stmcf/code-br-/blob/main/README.md#tech-stack) | [Using CodeBreak](https://github.com/stmcf/code-br-/blob/main/README.md#using-code<br>) | [Additional Information](https://github.com/stmcf/code-br-/blob/main/README.md#additional-information)
 
-
-
-# Team CodeBreak!
+# Team Code```<br>```
 
 [Alan Parley](https://github.com/AlanParley) ----- [Matthew McCoach](https://github.com/mjmccoach) ------ [Paul Donegan](https://github.com/fatpav) ------ [Steven McFarlane](https://github.com/stmcf)
 
