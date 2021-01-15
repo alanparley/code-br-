@@ -23,9 +23,6 @@ The CodeBreak project is the final Full Stack project for the [CodeClan](https:/
 |  Database | [Spring Boot with Hibernate](https://www..org/) |
 |  Testing & Coverage | [JUnit](), [Mocha](), []()   |  
 
-|  Additional Libraries   | [tba]() | 
-
-
 
 ### Frontend Testing
 
