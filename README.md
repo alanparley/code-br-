@@ -1,4 +1,8 @@
 # Code```<br>```
+
+[![Screenshot-2021-01-15-at-14-09-31.png](https://i.postimg.cc/R0spDyJp/Screenshot-2021-01-15-at-14-09-31.png)](https://postimg.cc/t16z1r5F)
+
+
 [Meet the Team](https://github.com/stmcf/code-br-/blob/main/README.md#TeamCodeBreak!) | [Tech Stack](https://github.com/stmcf/code-br-/blob/main/README.md#tech-stack) | [Using CodeBreak](https://github.com/stmcf/code-br-/blob/main/README.md#using-code<br>) | [Additional Information](https://github.com/stmcf/code-br-/blob/main/README.md#additional-information)
 
 
@@ -34,25 +38,3 @@ At present our frontend is only manually tested due to time constraints and a la
 
 Backend fully unit tested using JUnit4
 
-
-# Additional Information
-
-## Future Goals
-
-### User Authentication
-
-
-### Customisable Reminder Time Frame
-
-
-
-### Categories and Cost
-
-# Using CodeBreak
-
-
-# Additional Information
-
----
-
-# To Do 
